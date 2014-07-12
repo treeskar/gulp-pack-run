@@ -1,0 +1,34 @@
+{
+	"name": "gulp-pack-run",
+	"description": "Run gulp tasks from json manifest",
+	"version": "0.1.0",
+	"author": {
+		"name": "Treeskar"
+	},
+	"main": "./index.js",
+	"keywords": [
+		"gulpfriendly",
+		"pipe",
+		"gulp",
+		"orchestrator"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/treeskar/gulp-pack-run.git"
+	},
+	"devDependencies": {
+		"gulp": "*",
+		"gulp-util": "*",
+		"q": "*",
+		"mocha": "*",
+		"should": "*"
+	},
+	"engines": {
+		"node": ">= 0.8.0"
+	},
+	"licenses": [
+		{
+			"type": "MIT"
+		}
+	]
+}
