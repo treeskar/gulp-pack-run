@@ -24,7 +24,7 @@ gulp.task('build', function(callback) {
 		'templates',
 		{
 			name: 'concat-js',
-			dependencies: ['bower', 'tpl']
+			dependencies: ['bower', 'templates']
 		},
 		{
 			name: 'sass',
