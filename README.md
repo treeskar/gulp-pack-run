@@ -1,17 +1,17 @@
 gulp-pack-run
 =============
 
-This plugin allow you run your gulp task in the specified order
+This plugin allows you to run your gulp task in the specified order
 
 Usage
 -----
 
-First, install pack-run as a development dependency:
+First, install pack-run as a dev dependency:
 
 ```javascript
 npm install --save-dev gulp-pack-run
 ```
-Then add use it in your gulpfile, like so:
+Usage:
 
 ```javascript
 var gulp = require('gulp'),
